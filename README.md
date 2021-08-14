@@ -15,7 +15,7 @@ Intellectual Property Crowdfunding Protocol
 - Make a contribution of a desired amount. (For the MVP this can be a simple pledge, not a matching pledge.)
 - Increase the contribution at any time while the offer is open.
 
-  Note: Contributions must be held in such a way that they cannot be linked to a specific offer by inspecting the blockchain ledger (until the offer is fulfilled).
+- Note: Contributions must be held in such a way that they cannot be linked to a specific offer by inspecting the blockchain ledger (until the offer is fulfilled).
   Execute the rules of the mechanism:
   When the crowdsale duration is completed
   Calculate the total contribution and the overshoot.
