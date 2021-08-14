@@ -2,10 +2,12 @@
 
 # Overchute
 
-Intellectual Property Crowdfunding Protocol
+Intellectual Property Protocol
 
 - Allow anyone to create a pseudonymous user account, using Internet Identity or other means.
+
 - Allow users to deposit and withdraw some stable cryptocurrency (probably WTC or XTC).
+
 - Allow users to create an offer:
 - Generate a unique ID for the offer, with a unique URL for direct navigation to the offer. The offer status starts as 'draft'.
 - Allow the creator to specify the offer price and the crowdsale duration.
