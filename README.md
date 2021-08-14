@@ -1,4 +1,8 @@
+<img height=320 src="https://github.com/ferMartz/ic-material/blob/main/src/assets/ic-material-shot.png" />
+
 # Overchute
+
+## Intellectual Property Crowdfunding Protocol
 
 - Allow anyone to create a pseudonymous user account, using Internet Identity or other means.
 - Allow users to deposit and withdraw some stable cryptocurrency (probably WTC or XTC).
@@ -10,6 +14,7 @@
 - Allow users to contribute to a specific open offer:
 - Make a contribution of a desired amount. (For the MVP this can be a simple pledge, not a matching pledge.)
 - Increase the contribution at any time while the offer is open.
+
   Note: Contributions must be held in such a way that they cannot be linked to a specific offer by inspecting the blockchain ledger (until the offer is fulfilled).
   Execute the rules of the mechanism:
   When the crowdsale duration is completed
