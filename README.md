@@ -1,8 +1,8 @@
-<img height=320 src="https://github.com/ferMartz/ic-material/blob/main/src/assets/ic-material-shot.png" />
+<img height=320 src="https://github.com/ferMartz/overchute/blob/main/overchute_logo.jpeg" />
 
 # Overchute
 
-## Intellectual Property Crowdfunding Protocol
+Intellectual Property Crowdfunding Protocol
 
 - Allow anyone to create a pseudonymous user account, using Internet Identity or other means.
 - Allow users to deposit and withdraw some stable cryptocurrency (probably WTC or XTC).
